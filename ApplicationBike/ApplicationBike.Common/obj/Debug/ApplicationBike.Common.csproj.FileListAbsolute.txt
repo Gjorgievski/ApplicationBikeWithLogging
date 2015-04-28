@@ -1,0 +1,10 @@
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\bin\Debug\ApplicationBike.Common.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\bin\Debug\ApplicationBike.Common.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\obj\Debug\ApplicationBike.Common.csprojResolveAssemblyReference.cache
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\obj\Debug\ApplicationBike.Common.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\obj\Debug\ApplicationBike.Common.pdb
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\bin\Debug\log4net.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\bin\Debug\Ninject.dll
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\bin\Debug\log4net.xml
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\bin\Debug\Ninject.xml
+C:\Users\Ace\Documents\Visual Studio 2013\Projects\ApplicationBike\ApplicationBike.Common\bin\Debug\ApplicationBike.Common.dll.config
